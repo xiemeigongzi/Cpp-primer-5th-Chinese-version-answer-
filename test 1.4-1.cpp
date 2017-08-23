@@ -9,4 +9,4 @@ int main()
 	cout<<"The product of two numbers is "<<v1*v2<<endl;
 	
 	return 0;
-}
+
